@@ -32,7 +32,7 @@
 
 <table>
   <tr>
-    <td width="333" valign="top">
+    <td width="50%" valign="top">
       <div align="left">
         <b><a href="https://github.com/muhibkhan6168/muhibkhan6168">📁 muhibkhan6168</a></b>&nbsp;&nbsp;<sup><code>Public</code></sup>
         <br/><br/>
@@ -41,16 +41,7 @@
         <span>🟢 <b>Markdown</b> &nbsp;•&nbsp; 🟣 <b>Developer Profile</b></span>
       </div>
     </td>
-    <td width="333" valign="top">
-      <div align="left">
-        <b><a href="https://github.com/muhibkhan6168/ppms-management-system">📁 ppms-management-system</a></b>&nbsp;&nbsp;<sup><code>Enterprise</code></sup>
-        <br/><br/>
-        <sub>Project & Performance Management System for monitoring enterprise deliverables, milestones, budget tracking, and KPI performance metrics.</sub>
-        <br/><br/>
-        <span>🟢 <b>C#</b> &nbsp;•&nbsp; 🟣 <b>ASP.NET Core</b></span>
-      </div>
-    </td>
-    <td width="333" valign="top">
+    <td width="50%" valign="top">
       <div align="left">
         <b><a href="https://github.com/muhibkhan6168/hrmis-platform">📁 hrmis-platform</a></b>&nbsp;&nbsp;<sup><code>Enterprise</code></sup>
         <br/><br/>
