@@ -1,33 +1,29 @@
-<!-- ========================================================================= -->
-<!--                           MUHIB KHAN - GITHUB PROFILE                     -->
-<!-- ========================================================================= -->
-
 ```text
-                 .-----------------------.      muhib@khan -------------------------------------------------
-                /  ____________________  /|     OS:                             Windows 11
-               /  | >_ dotnet run    _ |//|     Uptime:                         Software Engineer
-              /   | ================== |/ |     Host:                           FBM Solutions Islamabad
-             |    | using System;      |  |     Kernel:                         Enterprise Systems Architecture
-             |    | namespace Muhib {  |  |     IDE:                            Visual Studio 2026, Visual Studio Code
-             |    |   class Engineer   |  |
-             |    |   {                |  |     Languages,Programming:          C#, ASP.NET, JavaScript, Java, C++
-             |    |     string Name =  |  |     Languages,Computer:             HTML, CSS
-             |    |       "Muhib";     |  |     Languages,Real:                 English, Urdu
-             |    |     string Role =  |  |
-             |    |       "SWE";       |  |     Hobbies,Software:               PPMS, HRMIS, Software Development
-             |    |     void Build()   |  |
-             |    |     { Solve(); }   |  |     Contact ----------------------------------------------------
-             |    |   }                |  |     Email,Personal:                 muhibkha9090@gmail.com
-             |    | }                  |  |     Email,Work:                     muhibkhan6168@gmail.com
-             |    |____________________|  |     LinkedIn:                       muhibkhan
-             |         /==========\       |     GitHub:                         muhibkhan6168
-              \_______/____________\_____/
-                  \                  \          GitHub Stats -----------------------------------------------
-             .-----'------------------'----.    Specialization:                 Full-Stack .NET & Enterprise Systems
-            /  [ESC] [F1] [F2] [DEL]  [::]  \   Domain Focus:                   PPMS & HRMIS Platforms
-           /   [---] [---] [---] [---] ( )   \  Architecture:                   Modular, Scalable, Secure Web Apps
-          /    _________________________     \  Status:                         Open to Collaboration & New Projects
-         '----[_________________________]----'  Timezone / Remote:              Available Globally
+                  ,gM@@@@@@@@M@,              muhib@khan -------------------------------------------------
+               .M"'|'|':"gM[mM$]M,.           OS:                                               Windows 11
+             .p|,'' ! |' '''||jhí$w,          Uptime:                         Full-Stack Software Engineer
+            .ed:'    '     '!j&M]s            Host:                                FBM Solutions Islamabad
+          .jl':`   .w£P@ob,      'f&M         Kernel:                    Enterprise Systems (PPMS / HRMIS)
+        ,g||@@@@@@@@@bpp,       .|||Y         IDE:                       Visual Studio 2026, VSCode 1.96.0
+       '|@@@@@@@@@@@@@@@@@,
+       ';]s&@@@@@@&$$$$kSh *|jmkr             Languages,Programming:    C#, ASP.NET, JavaScript, Java, C++
+       * jww'      |jkk'   -nrr@ji  ;         Languages,Computer:                                HTML, CSS
+       ! ,jrr~`            ''! .L':i          Languages,Real:                                English, Urdu
+       j' 'lp:,  ./@@      ,;\nmy  *
+      i r'@@@@@mHMM@@@@`~****M`p ;,           Hobbies,Software:          PPMS, HRMIS, Software Development
+      ! !@@@@HHH|gg@@&$sH; ingmb, j           Hobbies,Systems:                 Web Architecture, REST APIs
+      ;;888888@|',n]`;isSK|Sk*3,I
+      H|8xx**8j*k||,,jj'!lsjj|@               Contact ----------------------------------------------------
+      '*jjmkL,,'j]!,,,wKYW;|mb'k`             Email,Personal:                       muhibkha9090@gmail.com
+       '@;jMK**88WMM|Ssjkki||[                Email,Work:                          muhibkhan6168@gmail.com
+        kjj$kkk|!|!|||||||||]+                LinkedIn:                                          muhibkhan
+        jjmHK@@@b%kkmk$l!,[                   GitHub:                                        muhibkhan6168
+        .@|j*ssk||jj*';j[
+        l@@@g!'''   ,j$k                      GitHub Stats -----------------------------------------------
+       .@@dGM@mp;,,,,jj$k*,                   Repos:               1 (Profile) | Focus: Enterprise Systems
+      @@@@@@@eskgklljjj$kk@.                  Status:                           Active .NET & Web Engineer
+    ,nL*.@@@HHsbkkllljkj$***,,',              Domain:             PPMS, HRMIS & Scalable Web Architectures
+   -|''' .`$HH****H@gklljjjkk*` 'i.
 ```
 
 ---
@@ -38,29 +34,29 @@
   <tr>
     <td width="333" valign="top">
       <div align="left">
-        <b><a href="https://github.com/muhibkhan6168/ppms-enterprise-platform">📁 ppms-enterprise-platform</a></b>&nbsp;&nbsp;<sup><code>Public</code></sup>
+        <b><a href="https://github.com/muhibkhan6168/muhibkhan6168">📁 muhibkhan6168</a></b>&nbsp;&nbsp;<sup><code>Public</code></sup>
         <br/><br/>
-        <sub>Enterprise Project & Performance Management System (PPMS) for tracking deliverables, milestones, budget allocations, and organizational KPI analytics.</sub>
+        <sub>Special profile repository hosting the terminal-style developer dashboard and system specifications.</sub>
+        <br/><br/>
+        <span>🟢 <b>Markdown</b> &nbsp;•&nbsp; 🟣 <b>Profile</b></span>
+      </div>
+    </td>
+    <td width="333" valign="top">
+      <div align="left">
+        <b><a href="https://github.com/muhibkhan6168/ppms-management-system">📁 ppms-management-system</a></b>&nbsp;&nbsp;<sup><code>Public</code></sup>
+        <br/><br/>
+        <sub>Project & Performance Management System for monitoring deliverables, milestones, and organizational KPIs.</sub>
         <br/><br/>
         <span>🟢 <b>C#</b> &nbsp;•&nbsp; 🟣 <b>ASP.NET Core</b></span>
       </div>
     </td>
     <td width="333" valign="top">
       <div align="left">
-        <b><a href="https://github.com/muhibkhan6168/hrmis-management-system">📁 hrmis-management-system</a></b>&nbsp;&nbsp;<sup><code>Public</code></sup>
+        <b><a href="https://github.com/muhibkhan6168/hrmis-platform">📁 hrmis-platform</a></b>&nbsp;&nbsp;<sup><code>Public</code></sup>
         <br/><br/>
-        <sub>Comprehensive Human Resource Management Information System (HRMIS) for employee lifecycles, automated payroll, attendance, and workflow approvals.</sub>
+        <sub>Human Resource Management Information System for automated payroll, attendance logging, and employee workflows.</sub>
         <br/><br/>
         <span>🟣 <b>ASP.NET</b> &nbsp;•&nbsp; 🟡 <b>JavaScript</b></span>
-      </div>
-    </td>
-    <td width="333" valign="top">
-      <div align="left">
-        <b><a href="https://github.com/muhibkhan6168/enterprise-core-architecture">📁 enterprise-core-architecture</a></b>&nbsp;&nbsp;<sup><code>Public</code></sup>
-        <br/><br/>
-        <sub>Modular high-performance full-stack web architecture and RESTful enterprise microservices built with layered security and clean design.</sub>
-        <br/><br/>
-        <span>🔵 <b>C++</b> &nbsp;•&nbsp; 🟠 <b>HTML5 / CSS3</b></span>
       </div>
     </td>
   </tr>
@@ -71,7 +67,7 @@
 ### 🛠️ Technologies & Tools
 
 <p align="left">
-  <!-- Languages -->
+  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -120,5 +116,5 @@
 </p>
 
 <p align="center">
-  <sub>Inspired by Andrew Grant's terminal developer profile · Customized for <b>Muhib Khan</b></sub>
+  <sub>Inspired by the terminal-style developer profile · Built for <b>Muhib Khan</b></sub>
 </p>
