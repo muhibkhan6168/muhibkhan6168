@@ -1,47 +1,29 @@
 ```text
-                     \---\00000/---/
-                  \---0000000000000000---/
-               \----00000000000000000000----/
-            \----00000000000000000000000000----/
-          /----0000000000YY`       `YY000000000----\
-        /--_0000000000YY`             `YY0000000000_--\
-       /000000000YY`                       `YY00000000\
-      /0000000YY`        .-/24ppg_           `YY0000000\
-     /000000YY`     2--XGUT_p4lt;    `\        `YY00000\
-    /00000YY`    ,00000000000000000000000_       `YY0000\
-   /0000YY`    ,00005TF\__p000   `\\   p0000_      `YY00\   — Muhib@github ──────────────────────────────────────────────
-  /000YY`    ,0000P"         `\\p0000000000000_      `YY\   . Name: ....................................... Muhibullah Khan
- /00YY`    ,0000"   _YY\     _p000X/`    `\   `00_     `Y\  . Role: .......................... Full-Stack Software Engineer
-|0YY`    ,00000     _p0000000P"  \000000_  \L   `000     |  . Company: ............................ FBM Solutions Islamabad
-|YY`    ,000P"     0000P"            \0000  IL   `000    |  . Location: ............................... Islamabad, Pakistan
-|Y`    ,000P     `00P"                 \000  |L   `000   |  . OS: .............................................. Windows 11
-|     ,00P"        Y                    \00   IL   `00   |  . IDE: ............................ Visual Studio 2026, VS Code
-|    ,00P"  2407  -`\  _pPL\igb-Y\ ggL  [:0   `L    `0   |  . Languages: ................ C#, ASP.NET / .NET, JS, Java, C++
-|   ,00"   `000P  /00P `Y_Z--T\=p0000P`   0[   `L    `   |  . Web Tech: ....................................... HTML5, CSS3
-|   |0"   / `10000':::/20:-` `]0000-c-`   `IL  |0        |  . Real Langs: ................................... English, Urdu
-|   |0   |   /__/     |g000     `\---/`   `J   40        |  . Hobbies: .................. PPMS, HRMIS, Enterprise Apps, SWE
-|   |0   |            |g0000                       |     |  . Interests: ................. REST APIs, Database Architecture
-|   |0   \0::.        \00000                       |     |
-|   |0   |            _p0000_                      |     |  — Contact ────────────────────────────────────────────────────
-|   |0   |         40000000000_000000000000        |     |  . Email: .............................. muhibkhan6168@gmail.com
-|   |0   \        0000000000000\0000000000\        |     |  . GitHub: ............................ github.com/muhibkhan6168
-|   |0   |:       \00000000000000000000000/        |     |  . LinkedIn: ......................... linkedin.com/in/muhibkhan
-|   |0   |::.       Y0000000000000000000P'     ::. |     |
-|   |0   |:::..          `\ 240\-`7L           `:: |     |  — GitHub Stats ───────────────────────────────────────────────
-|   |0   |:::::.                                :: |     |  . Repos: ........................ 1 | . Status: ............ Active
-|   |0   |:::::::..   /000//--\_,000\         .::: |     |  . Focus: ............ Enterprise .NET | . Architecture: ...... Modular
-|   |0   \::::::.  /000//70000000000\0000\   .:::: /     |
-|   |0   |::::.   |000' 0_400000\\|000| |  .:::::  |     |
- \--\0-00\  |       |Y000|0-000000|L |  \000\
-//00000\ 3| |Ym5    |00000-0000000|  \  |IL | L WXZL
-|//00ULUL 3||YN5\ .--.40gpw-YY\ppL\.- 2\  \ |L W07|
-|000000L3||YN5 |7-- 0000000000000| - 2\  `\.- |YN5|
-|00|3,0| |0||I: | : /g.7g//g(1400000L_g | i : : p : :
-00|7: .|::..|: | : |    |00(00900):. | : |           |
- g00, .L :0|   040000002]00000: |  :3 |100|0IL |  :|:
-//0000/ Ygg /  [Y/- - -] - GL   | :3 |13|G| |L |  |2--
-|//00/ /\      |     2Y      |  |: |12|3| |[ |L |
-00P / `////    \mmmmmmmmmmmmmm/ |  :| |?|7` |L |  \mmmm
+                  ,gM@@@@@@@@M@,              muhib@workstation --------------------------------------------
+               .M"'|'|':"gM[mM$]M,.           Name:                                          Muhibullah Khan
+             .p|,'' ! |' '''||jhí$w,          Role:                             Full-Stack Software Engineer
+            .ed:'    '     '!j&M]s            Company:                               FBM Solutions Islamabad
+          .jl':`   .w£P@ob,      'f&M         Location:                                  Islamabad, Pakistan
+        ,g||@@@@@@@@@bpp,       .|||Y         OS:                                                 Windows 11
+       '|@@@@@@@@@@@@@@@@@,                   IDE:                               Visual Studio 2026, VS Code
+       ';]s&@@@@@@&$$$$kSh *|jmkr
+       * jww'      |jkk'   -nrr@ji  ;         Languages,Programming:       C#, ASP.NET / .NET, JS, Java, C++
+       ! ,jrr~`            ''! .L':i          Languages,Computer:                                HTML5, CSS3
+       j' 'lp:,  ./@@      ,;\nmy  *          Languages,Real:                                  English, Urdu
+      i r'@@@@@mHMM@@@@`~****M`p ;,
+      ! !@@@@HHH|gg@@&$sH; ingmb, j           Hobbies,Software:            PPMS, HRMIS, Enterprise Apps, Dev
+      ;;888888@|',n]`;isSK|Sk*3,I             Interests,Core:             REST APIs, Database-Driven Systems
+      H|8xx**8j*k||,,jj'!lsjj|@               Interests,Arch:        Workflows, Bug Fixing, React (Learning)
+      '*jjmkL,,'j]!,,,wKYW;|mb'k`
+       '@;jMK**88WMM|Ssjkki||[                Contact ------------------------------------------------------
+        kjj$kkk|!|!|||||||||]+                Email,Work:                            muhibkhan6168@gmail.com
+        jjmHK@@@b%kkmk$l!,[                   GitHub:                       https://github.com/muhibkhan6168
+        .@|j*ssk||jj*';j[                     LinkedIn:               https://www.linkedin.com/in/muhibkhan/
+        l@@@g!'''   ,j$k
+       .@@dGM@mp;,,,,jj$k*,                   GitHub Stats -------------------------------------------------
+      @@@@@@@eskgklljjj$kk@.                  Status:                        Active Enterprise .NET Engineer
+    ,nL*.@@@HHsbkkllljkj$***,,',              Specialization:           PPMS & HRMIS Architectural Platforms
+   -|''' .`$HH****H@gklljjjkk*` 'i.           Architecture:           High-Performance Modular REST Services
 ```
 
 ---
@@ -128,5 +110,5 @@
 </p>
 
 <p align="center">
-  <sub>Inspired by the cyber-terminal developer aesthetic · Built for <b>Muhibullah Khan</b></sub>
+  <sub>Inspired by the terminal-style developer profile · Built for <b>Muhibullah Khan</b></sub>
 </p>
